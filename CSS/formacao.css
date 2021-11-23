@@ -99,6 +99,10 @@
   margin-bottom: 60px;
 }
 
+.idiomas {
+  margin-bottom: 60px;
+}
+
 .formacao-extra h3 {
   font-size: 0.875rem;
   line-height: 1.4;
@@ -124,6 +128,10 @@
 
 .idiomas h3::before {
   background: url("../assets/idiomas.svg") no-repeat center center;
+}
+
+.eventos h3::before {
+  background: url("../assets/eventos.svg") no-repeat center center;
 }
 
 .formacao-extra li {
