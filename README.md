@@ -8,9 +8,7 @@
 <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/angelicaalbuquerque/ui-design_origamid?color=66C2FE">
 </p>
 
----
-
-## Sobre
+### Sobre
 
 Projeto pessoal desenvolvido ao longo do curso de "UI Design Para Iniciantes", da Origamid.
 
@@ -18,7 +16,7 @@ Projeto pessoal desenvolvido ao longo do curso de "UI Design Para Iniciantes", d
 
 O site responsivo foi desenvolvido totalmente em HTML e CSS puro, em sua primeira versão, sendo todo seu protótipo realizado na ferramenta Figma.
 
-## 📬 Entre em contato!
+### 📬 Entre em contato!
 
 <p align="left">
 
