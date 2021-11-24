@@ -4,13 +4,13 @@
 
 <p align="center">
 <img alt="Made by Angélica Albuquerque" src="https://img.shields.io/badge/made%20by-Angélica Albuquerque-%20?color=FF67C3">
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/angelicaalbuquerque/ui-design_origamid?color=FFEF66">
-<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/angelicaalbuquerque/ui-design_origamid?color=66C2FE">
+<img alt="Repository size" src="https://img.shields.io/github/repo-size/angelicaalbuquerque/frontangie?color=FFEF66">
+<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/angelicaalbuquerque/frontangie?color=66C2FE">
 </p>
 
 ### Sobre
 
-Projeto pessoal desenvolvido ao longo do curso de "UI Design Para Iniciantes", da Origamid.
+Projeto pessoal desenvolvido ao longo do curso de "[UI Design Para Iniciantes](https://github.com/angelicaalbuquerque/ui-design_origamid)", da Origamid.
 
 <a>frontangie.dev</a> é um site criado para fortalecer minha presença digital e expor meu currículo de forma dinâmica, moderna e acessível.
 
