@@ -71,24 +71,27 @@
   position: relative;
 }
 
-.faculdade-curso::before {
+.faculdade-lista li::before {
   content: "";
   display: block;
   width: 4px;
   height: 20px;
-  position: absolute;
-  top: 20px;
+  position: relative;
+  top: 50px;
   left: -24px;
+}
+
+.faculdade-lista li:nth-child(1)::before {
   background: linear-gradient(180deg, #ff67c3 0%, #ce1986 100%, #c1127b 100%);
 }
 
-/* .faculdade-curso:nth-child()::before {
+.faculdade-lista li:nth-child(2)::before {
   background: linear-gradient(180deg, #ffef66 0%, #dbc71a 100%);
 }
 
-.faculdade-curso:nth-child()::before {
+.faculdade-lista li:nth-child(3)::before {
   background: linear-gradient(180deg, #66c2fe 0%, #1584cd 100%);
-} */
+}
 
 .faculdade-instituicao {
   font-size: 1.125rem;
