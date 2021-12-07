@@ -81,6 +81,16 @@
   font-size: 0.875rem;
 }
 
+.empresa-texto a {
+  color: #525252;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.empresa-texto a:hover {
+  color: #141414;
+}
+
 .empresa-habilidades {
   display: flex;
   flex-wrap: wrap;
