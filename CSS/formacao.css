@@ -174,3 +174,13 @@
     margin-bottom: 10px;
   }
 }
+
+.imagem-anexos {
+  margin-left: 0.2rem;
+}
+
+.titulo-curso,
+.titulo-evento {
+  display: inline-flex;
+  color: white !important;
+}
