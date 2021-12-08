@@ -1,4 +1,4 @@
-.projetos-container {
+.portfolio-container {
   max-width: 1200px;
   padding: 120px 20px;
   margin: 0 auto;
@@ -8,17 +8,17 @@
   position: relative;
 }
 
-.projetos {
+.portfolio {
   background-color: #292929;
   color: white;
 }
 
-.projetos .subtitulo {
+.portfolio .subtitulo {
   color: #3d3d3d;
   max-width: 3.5ch;
 }
 
-.projetos-texto {
+.portfolio-texto {
   font-size: 1.5rem;
   line-height: 1.33;
   margin-bottom: 60px;
@@ -26,7 +26,7 @@
   color: #f0f0f0;
 }
 
-.projetos-texto strong {
+.portfolio-texto strong {
   color: #ffffff;
 }
 
@@ -47,18 +47,18 @@
 } */
 
 @media (max-width: 800px) {
-  .projetos-container {
+  .portfolio-container {
     grid-template-columns: 1fr;
     padding: 60px 20px;
     gap: 40px;
   }
 
-  .projetos .subtitulo {
+  .portfolio .subtitulo {
     color: #ffffff;
     max-width: 5ch;
   }
 
-  .projetos-texto {
+  .portfolio-texto {
     font-size: 1.125rem;
   }
 }
