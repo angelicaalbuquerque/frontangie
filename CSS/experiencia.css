@@ -33,10 +33,16 @@
   position: absolute;
   top: 20px;
   left: -4px;
+  /* background: linear-gradient(180deg, #ff67c3 0%, #ce1986 100%, #c1127b 100%); */
+}
+
+.empresa:nth-child(2)::before,
+.empresa:nth-child(5)::before {
   background: linear-gradient(180deg, #ff67c3 0%, #ce1986 100%, #c1127b 100%);
 }
 
-.empresa:nth-child(3)::before {
+.empresa:nth-child(3)::before,
+.empresa:nth-child(6)::before {
   background: linear-gradient(180deg, #ffef66 0%, #dbc71a 100%);
 }
 
